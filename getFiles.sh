@@ -2,7 +2,7 @@
 Help()
 {
    # Display Help
-   echo "GetScript sh file is used to download the latest files from bitbucket."
+   echo "getFiles.sh file is used to download the latest files from bitbucket."
    echo
    echo "Syntax: sh getFiles.sh [options] <u> <pat>"
    echo "user input:"
